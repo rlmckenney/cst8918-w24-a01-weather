@@ -51,6 +51,7 @@ Your team lead has created an initial implementation, which is ready for you to 
 
 - fork the [GitHub repo](https://github.com/rlmckenney/cst8918-w24-a01-weather)
 - clone a local copy of your forked repo
+- run npm install (to install all dependencies including remix)
 - start the dev server with `npm run dev`
 - open link displayed in your terminal with a browser, e.g. http://localhost:59287
 
